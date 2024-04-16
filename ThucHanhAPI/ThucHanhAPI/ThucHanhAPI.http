@@ -1,0 +1,6 @@
+@ThucHanhAPI_HostAddress = http://localhost:5241
+
+GET {{ThucHanhAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
